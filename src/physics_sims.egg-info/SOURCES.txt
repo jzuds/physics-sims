@@ -1,0 +1,12 @@
+README.md
+setup.py
+src/physics_sims/Home.py
+src/physics_sims.egg-info/PKG-INFO
+src/physics_sims.egg-info/SOURCES.txt
+src/physics_sims.egg-info/dependency_links.txt
+src/physics_sims.egg-info/not-zip-safe
+src/physics_sims.egg-info/requires.txt
+src/physics_sims.egg-info/top_level.txt
+src/physics_sims/calculations/exceptions.py
+src/physics_sims/calculations/kinematics.py
+src/physics_sims/pages/Plotting.py

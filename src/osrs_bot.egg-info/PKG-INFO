@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: osrs-bot
+Version: 0.0.1
+Summary: streamlit project to visualize some physics problems.
+Author: Josh Zadoyko
+Author-email: zudsgaming@gmail.com
+Requires-Python: >=3.8

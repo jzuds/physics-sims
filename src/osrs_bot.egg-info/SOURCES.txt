@@ -1,0 +1,12 @@
+README.md
+setup.py
+src/osrs_bot.egg-info/PKG-INFO
+src/osrs_bot.egg-info/SOURCES.txt
+src/osrs_bot.egg-info/dependency_links.txt
+src/osrs_bot.egg-info/not-zip-safe
+src/osrs_bot.egg-info/requires.txt
+src/osrs_bot.egg-info/top_level.txt
+src/physics_sims/Home.py
+src/physics_sims/calculations/exceptions.py
+src/physics_sims/calculations/kinematics.py
+src/physics_sims/pages/Plotting.py
